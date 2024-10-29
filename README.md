@@ -1,2 +1,2 @@
-# DETECTALE-C-27-MINIPROJECT
+# DETECTALE-C27-MINIPROJECT
 Generating Narratives from Image And Voice Recognition.
